@@ -2,7 +2,6 @@
 
 <img align="right" alt="anaGiphy" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/EnmLXRZuGogqjHEwZs/giphy.gif">
 
-- 🔭 A procura de um estágio
 - 🖥  Apaixonada por tecnologias
 - 🎮 Curto uns joguinhos no tempo livre
 - 📕 Adoro aprender e ensinar
