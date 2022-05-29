@@ -2,7 +2,7 @@
 
 <img align="right" alt="anaGiphy" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/EnmLXRZuGogqjHEwZs/giphy.gif">
 
-- 🖥  Apaixonada por tecnologias
+- 🖥  Apaixonada por tecnologia
 - 🎮 Curto uns joguinhos no tempo livre
 - 📕 Adoro aprender e ensinar
 - 🧩 Gosto de desafios
