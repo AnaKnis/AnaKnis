@@ -1,12 +1,12 @@
-### Olá, Mundo! Eu sou a Ana Júlia 👋
+### Hello, World! I'm Ana Júlia 👋
 
 <img align="right" alt="anaGiphy" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/EnmLXRZuGogqjHEwZs/giphy.gif">
 
-- 🖥  Apaixonada por tecnologia
-- 🎮 Curto uns joguinhos no tempo livre
-- 📕 Adoro aprender e ensinar
-- 🧩 Gosto de desafios
-- 🐶😺 Paixão pelos animais
+🖥 Passionate about technology
+🎮 I enjoy playing games in my free time
+📕 I love to learn and teach
+🧩 I enjoy challenges
+🐶😺 Passion for animals
 
 ##
 
