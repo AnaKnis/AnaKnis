@@ -16,15 +16,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaknis&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### Technologies
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
-  <img align="center" alt="IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
-  <img align="center" alt="Dart" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-    
  ##   
  
 ### Follow me on social media
